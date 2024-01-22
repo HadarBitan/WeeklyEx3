@@ -1,7 +1,7 @@
 # WeeklyEx3
 למשחקים שנוצרו:
 
-(Spaceship)[https://edenxhadar.itch.io/spaceship-game]
+[Spaceship](https://edenxhadar.itch.io/spaceship-game)
 
 במשחק יש 2 תוספים-
 
@@ -23,7 +23,7 @@
    על מנת ליצור את פעולה זו התווספו הסקריפט הבא False Destroy אשר בודק אם בטעות ירינו על כוכב לכת.
    
 
-      (Tetris Racing)[https://edenxhadar.itch.io/tetris-racing]
+[Tetris Racing](https://edenxhadar.itch.io/tetris-racing)
 
    במשחק זה השחקן הוא מכונית והוא צריך להיזהר לא להתנגש במכוניות שבאות מהכיוון השני שלו.
 
