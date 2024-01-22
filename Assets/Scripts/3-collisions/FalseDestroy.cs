@@ -20,8 +20,4 @@ public class FalseDestroy : MonoBehaviour {
             SceneManager.LoadScene(sceneName);
         }
     }
-
-    private void Update() {
-        /* Just to show the enabled checkbox in Editor */
-    }
 }

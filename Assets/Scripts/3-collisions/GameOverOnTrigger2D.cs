@@ -14,7 +14,6 @@ public class GameOverOnTrigger2D : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D other) {
         if (other.tag == triggeringTag && enabled) {
             Debug.Log("Game over!");
-            Application.Quit();
             other.transform.position = Vector3.zero;
             SceneManager.LoadScene(sceneName);
         }
